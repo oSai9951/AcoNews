@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+.heading{
+    width: 90%;
+    font-family: "Dela Gothic One", sans-serif;
+    font-weight: 500;
+    color:blue;
+    text-align: center;
+    height: 80px;
+    padding-top: 20px;
+    margin: auto;
+    border-bottom: 2px solid black;
+}
